@@ -2,8 +2,6 @@
 
 Baixe vídeos e áudios do YouTube e de mais de 1.000 sites (Instagram, TikTok, X, Facebook, Vimeo, Twitch, SoundCloud…), em um AppImage para Linux. Usa o [yt-dlp](https://github.com/yt-dlp/yt-dlp) como motor.
 
-Desenvolvido por **Samuel Gomes**.
-
 ![Downloads](docs/img/downloads.png)
 
 ## Capturas
