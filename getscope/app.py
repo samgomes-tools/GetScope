@@ -1,0 +1,5 @@
+"""Informações gerais do GetScope."""
+APP_NAME = "GetScope"
+VERSION = "1.0.0"
+AUTHOR = "Samuel Gomes"
+TAGLINE = "Baixe vídeos e áudios do YouTube e de mais de 1.000 sites"

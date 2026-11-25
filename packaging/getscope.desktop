@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=GetScope
+GenericName=Baixador de vídeos
+Comment=Baixe vídeos e áudios do YouTube e de mais de 1.000 sites
+Exec=getscope %U
+Icon=getscope
+Terminal=false
+Categories=AudioVideo;Network;
+Keywords=youtube;download;video;audio;mp3;yt-dlp;
+StartupWMClass=getscope
